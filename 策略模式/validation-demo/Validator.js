@@ -1,4 +1,4 @@
-import Rules from './rules'
+import Rules from './Rules'
 /**
  * 填单校验器
  * @class
